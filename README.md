@@ -1,7 +1,7 @@
 # ArknightsAlias
 明日方舟别名
 
-[查看api](https://alias.arkfans.top/swagger#/)
+[文档](https://alias.arkfans.top/docs/)
 
 ## 文件说明
 - [data.json](./data.json) 数据文件
